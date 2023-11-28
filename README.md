@@ -3,6 +3,7 @@
 
 AOUID Checker
 AOUID Site Accounts Checker | https://www.aouide.com/
+AOUID Site Accounts Checker | https://www.aouid.ma/
 
 1- Copy Combo Text File To Same Main File folder
 
